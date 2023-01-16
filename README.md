@@ -4,5 +4,4 @@ The MD is for markdown
 Hæ
 :)
 <3
-:D
-:(
+:/
